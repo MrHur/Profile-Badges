@@ -1,5 +1,3 @@
-# 🏆 Profile Badges
-
 ![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=Greedy%20BackEnd&fontSize=90&fontColor=black&stroke=dea8ff&stroke-width=1)
 
 <h1 align="center">
