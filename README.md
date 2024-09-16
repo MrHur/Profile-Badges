@@ -19,22 +19,7 @@
 　　　MariaDB / MySQL / Oracle Database 21c XE 데이터베이스 
 <br>　　　AWS、FTP(FileZilla) 등을 이용한 웹 배포 과정을 수료했습니다.
 <br><br><br><br>
-<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:MrHur.Greedy92.ekzmemforhs3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-<a href="https://MrHur.github.io" >
-   <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-</a>
-<a href="https://www.notion.so/greedy92/2023-12-11-2024-06-18-7fb8b16a2d8d42c295adf44207bb966b" target="_blank">
-   <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=white&labelColor=%23000000"/> 
-</a>
-
-<br>
-
----
 
 
 <img src="https://github.com/MrHur/MrHur/blob/output/github-snake-dark.svg" width="100%">
